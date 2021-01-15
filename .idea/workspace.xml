@@ -10,7 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89efb32a-f4f8-4905-aaa6-962de13c60e3" name="Default Changelist" comment="Edit README file">
+    <list default="true" id="89efb32a-f4f8-4905-aaa6-962de13c60e3" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +161,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610663760226</updated>
-      <workItem from="1610663761848" duration="23718000" />
+      <workItem from="1610663761848" duration="23395000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1610729564281</created>
@@ -169,14 +170,7 @@
       <option name="project" value="LOCAL" />
       <updated>1610729564281</updated>
     </task>
-    <task id="LOCAL-00002" summary="Edit README file">
-      <created>1610730254080</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1610730254080</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,8 +190,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Initial commit" />
-    <MESSAGE value="Edit README file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit README file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-933" y="243" key="#com.intellij.ide.util.MemberChooser" timestamp="1610706656724">
@@ -216,10 +209,10 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="525" y="143" key="SettingsEditor/-1440.93.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1610729479152" />
-    <state x="620" y="248" key="Vcs.Push.Dialog.v2" timestamp="1610730256117">
+    <state x="620" y="248" key="Vcs.Push.Dialog.v2" timestamp="1610729728193">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state x="620" y="248" key="Vcs.Push.Dialog.v2/-1440.93.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1610730256117" />
+    <state x="620" y="248" key="Vcs.Push.Dialog.v2/-1440.93.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1610729728193" />
     <state x="-1019" y="163" width="710" height="735" key="find.popup" timestamp="1610666873559">
       <screen x="-1440" y="93" width="1440" height="875" />
     </state>
