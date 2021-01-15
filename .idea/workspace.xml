@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89efb32a-f4f8-4905-aaa6-962de13c60e3" name="Default Changelist" comment="" />
+    <list default="true" id="89efb32a-f4f8-4905-aaa6-962de13c60e3" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,6 +150,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -157,8 +161,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610663760226</updated>
-      <workItem from="1610663761848" duration="22674000" />
+      <workItem from="1610663761848" duration="23395000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1610729564281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610729564281</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +187,11 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="-933" y="243" key="#com.intellij.ide.util.MemberChooser" timestamp="1610706656724">
       <screen x="-1440" y="93" width="1440" height="875" />
@@ -188,10 +205,22 @@
       <screen x="-1440" y="93" width="1440" height="875" />
     </state>
     <state x="-1042" y="260" key="NewPhpClassDialog/-1440.93.1440.875/0.25.1920.1055@-1440.93.1440.875" timestamp="1610718918720" />
+    <state x="525" y="143" key="SettingsEditor" timestamp="1610729479152">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="525" y="143" key="SettingsEditor/-1440.93.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1610729479152" />
+    <state x="620" y="248" key="Vcs.Push.Dialog.v2" timestamp="1610729728193">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="620" y="248" key="Vcs.Push.Dialog.v2/-1440.93.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1610729728193" />
     <state x="-1019" y="163" width="710" height="735" key="find.popup" timestamp="1610666873559">
       <screen x="-1440" y="93" width="1440" height="875" />
     </state>
     <state x="-1019" y="163" width="710" height="735" key="find.popup/-1440.93.1440.875/0.25.1920.1055@-1440.93.1440.875" timestamp="1610666873559" />
+    <state x="811" y="417" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1610729690331">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="811" y="417" key="git4idea.remote.GitConfigureRemotesDialog/-1440.93.1440.875/0.25.1920.1055@0.25.1920.1055" timestamp="1610729690331" />
     <state x="-1055" y="282" width="670" height="676" key="search.everywhere.popup" timestamp="1610714166123">
       <screen x="-1440" y="93" width="1440" height="875" />
     </state>
